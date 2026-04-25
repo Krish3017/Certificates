@@ -1,43 +1,21 @@
-# 📜 Certifications – Krish Ramanandi
+# 🎓 My Certifications
 
-This repository contains verified certificates earned by me through Coursera and recognized universities and organizations.
+Welcome! This repository contains digital copies of the certificates I have earned from various courses and platforms. It serves as an organized showcase of my continuous learning and professional development. Each certificate reflects my commitment to growing my knowledge and skills across diverse technology domains.
 
-These certifications validate my skills in:
-- Data Analytics & Data Foundations
-- Core Java & Object-Oriented Programming
-- Web Development (PHP)
-- Software Engineering fundamentals
+## 📜 List of Certificates
 
----
-
-## 📂 Certificates
-
-| Certificate | Issued By | Verification |
-|------------|---------|---------------|
-| Foundations: Data, Data, Everywhere | Google (Coursera) | https://coursera.org/verify/HPZCTNOUYHHG |
-| Core Java Specialization | LearnQuest (Coursera) | https://coursera.org/verify/specialization/FV2VHHB9I6WC |
-| Building Web Applications in PHP | University of Michigan (Coursera) | https://coursera.org/verify/9I6IMDM8H6J1 |
+| 🏆 Certificate Name     | 🏢 Issuing Organization | 📅 Date       | 📄 Link to Certificate                         |
+|------------------------|------------------------|--------------|-----------------------------------------------|
+| Core JAVA              | [Add Issuer]           | [Add Date]   | [View PDF](./Core-JAVA.pdf)                   |
+| Google Data            | [Add Issuer]           | [Add Date]   | [View PDF](./Google-Data.pdf)                 |
+| Meta React             | [Add Issuer]           | [Add Date]   | [View PDF](./Meta%20React.pdf)                |
+| NPTEL DBMS             | [Add Issuer]           | [Add Date]   | [View PDF](./NPTEL%20DBMS.pdf)                |
+| PHP                    | [Add Issuer]           | [Add Date]   | [View PDF](./PHP.pdf)                         |
 
 ---
 
-## 📌 Why this repository?
+> ✍️ _To update: Replace `[Add Issuer]` and `[Add Date]` with the actual organization and date for each certificate._
 
-These certifications demonstrate my continuous learning in:
-- Programming
-- Data Science
-- Software Development
-- Backend & Web Technologies
+## 🌟 Thank you for visiting my certifications portfolio!
 
-They complement my academic education and project work.
-
----
-
-## 👤 About Me
-
-**Krish Ramanandi**  
-B.Tech Student — Software Engineering  
-Focused on Full-Stack Development, Data Science, and Machine Learning  
-
-📧 krishramanandi30@gmail.com  
-🔗 GitHub: https://github.com/krishramanandi  
-🔗 LinkedIn: https://linkedin.com/in/krish-ramanandi
+Feel free to explore. If you have any questions or wish to connect regarding my qualifications, don’t hesitate to reach out!
